@@ -1,4 +1,4 @@
-# Python: Getting Started
+# PythonTeleBot
 
 This is TeleBot. It was written in Python 3.8
 Nothing more to say
