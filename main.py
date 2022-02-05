@@ -1,7 +1,7 @@
 import telebot
 from telebot import types
 
-bot = telebot.TeleBot('1208243052:AAGb0K0LFy1SeobOtWxwkP_VPD8FtzvR8vY')
+bot = telebot.TeleBot('{your API-key here}')
 
 #####THIS PART IS UNDER CONSTRUCTION#####
 @bot.message_handler(commands=['text'])
